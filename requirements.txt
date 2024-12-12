@@ -1,0 +1,5 @@
+
+pip install threading
+pip install time
+pip install firebase_admin
+pip install cv2
