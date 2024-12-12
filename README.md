@@ -17,3 +17,11 @@ To run the project locally, follow these steps:
    git clone https://github.com/<your-username>/<repository-name>.git
 
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
+
+## Author
+
+
+[Ayush Gangwar](https://github.com/Arya182-ui)
